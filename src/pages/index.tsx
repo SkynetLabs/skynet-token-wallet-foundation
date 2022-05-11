@@ -5,11 +5,6 @@
 import * as React from "react";
 
 // styles
-const pageStyles = {
-  color: "#232129",
-  padding: 96,
-  fontFamily: "-apple-system, Roboto, sans-serif, serif",
-};
 const headingStyles = {
   marginTop: 0,
   marginBottom: 64,
@@ -24,10 +19,6 @@ const codeStyles = {
   backgroundColor: "#FFF4DB",
   fontSize: "1.25rem",
   borderRadius: 4,
-};
-const listStyles = {
-  marginBottom: 96,
-  paddingLeft: 0,
 };
 const listItemStyles = {
   fontWeight: 300,
@@ -77,13 +68,13 @@ const links = [
 // markup
 const IndexPage = () => {
   return (
-    <main style={pageStyles}>
+    <main className="text-palette-500 p-24">
       <title>Home Page</title>
       <h1 style={headingStyles}>Skynet Token Wallet Foundation</h1>
       <p style={paragraphStyles}>
         <code style={codeStyles}>TODO:</code> Login using kernel. 😎
       </p>
-      <ul style={listStyles}>
+      <ul className="px-0">
         {links.map((link) => (
           <li key={link.url} style={{ ...listItemStyles, color: link.color }}>
             <span>
