@@ -8,6 +8,7 @@
     "gatsby",
     "skynet"
   ],
+  "license": "MIT",
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": [
       "eslint --max-warnings 0",
