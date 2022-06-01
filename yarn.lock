@@ -3407,13 +3407,13 @@ babel-plugin-polyfill-regenerator@^0.3.0:
   dependencies:
     "@babel/helper-define-polyfill-provider" "^0.3.1"
 
-babel-plugin-remove-graphql-queries@^4.14.0:
-  version "4.14.0"
-  resolved "https://registry.yarnpkg.com/babel-plugin-remove-graphql-queries/-/babel-plugin-remove-graphql-queries-4.14.0.tgz#de14d5cb35848e91aa2a2a22731403d2e7ed3480"
-  integrity sha512-rqCih6maArH0nbkndAP9UKKQCUWZy1NBxG+nSOoIZpvLkMqTweAuiTpMDJVHWDk9CycFlLfl09/Ayk/nciVKhA==
+babel-plugin-remove-graphql-queries@^4.14.0, babel-plugin-remove-graphql-queries@^4.15.0:
+  version "4.15.0"
+  resolved "https://registry.yarnpkg.com/babel-plugin-remove-graphql-queries/-/babel-plugin-remove-graphql-queries-4.15.0.tgz#602b55cd73367666ae23e0cfa212bb227bfce6b6"
+  integrity sha512-Jkc9DbXWvhtKddEqH0KXtXEQcqQIEBb43+NjRbQam+i1X8v1Dlq3EsWAaxDMLw8Wx3Hsb00CfiQw9z9eXEpb2A==
   dependencies:
     "@babel/runtime" "^7.15.4"
-    gatsby-core-utils "^3.14.0"
+    gatsby-core-utils "^3.15.0"
 
 babel-plugin-syntax-trailing-function-commas@^7.0.0-beta.0:
   version "7.0.0-beta.0"
@@ -6031,22 +6031,23 @@ gatsby-parcel-config@^0.5.0:
     "@parcel/transformer-raw" "^2.3.2"
     "@parcel/transformer-react-refresh-wrap" "^2.3.2"
 
-gatsby-plugin-image@^2.14.0:
-  version "2.14.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-image/-/gatsby-plugin-image-2.14.0.tgz#90ee6c7fbc897e2c33b26a3cdcbbcc9ef15be05f"
-  integrity sha512-LfM8V7kJVkkvq9S0UaVYlUakMNMdrL2RTjnnAUjclFhA+QQpI1uOuSY9iQe0zcy9VUZN4XNaRnubmrQp2MlL2w==
+gatsby-plugin-image@^2.15.1:
+  version "2.15.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-image/-/gatsby-plugin-image-2.15.1.tgz#6b4f34fed2c1a6cea9dceb45b7ce377b849635f9"
+  integrity sha512-Zicg8tOJJfLtKp8bN7BqF4aH9Sf3C4sEJ7sTNV6RDtLleFy5GQb40mTVIV+yvxD6AOXKko9wicc5XOrKBvRXyA==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/parser" "^7.15.5"
     "@babel/runtime" "^7.15.4"
     "@babel/traverse" "^7.15.4"
     babel-jsx-utils "^1.1.0"
-    babel-plugin-remove-graphql-queries "^4.14.0"
+    babel-plugin-remove-graphql-queries "^4.15.0"
     camelcase "^5.3.1"
     chokidar "^3.5.2"
     common-tags "^1.8.2"
     fs-extra "^10.1.0"
-    gatsby-core-utils "^3.14.0"
+    gatsby-core-utils "^3.15.0"
+    gatsby-plugin-utils "^3.9.1"
     objectFitPolyfill "^2.3.5"
     prop-types "^15.8.1"
 
