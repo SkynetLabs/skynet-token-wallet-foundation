@@ -6068,10 +6068,10 @@ gatsby-plugin-page-creator@^4.14.0:
     globby "^11.1.0"
     lodash "^4.17.21"
 
-gatsby-plugin-postcss@^5.15.0:
-  version "5.15.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-postcss/-/gatsby-plugin-postcss-5.15.0.tgz#73bc1c458003c088de4ea39bd4a9e0fa819233cd"
-  integrity sha512-1eZ2vQW/Jp00hprlgoYNLC7kQc6N4LjcxIDgBjxLSZeOqLSD3bWFilQkvZI1A00fy2fNX3XBOo6iLHvb7I6o/A==
+gatsby-plugin-postcss@^5.17.0:
+  version "5.17.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-postcss/-/gatsby-plugin-postcss-5.17.0.tgz#1e466f8d1f60a6a144305e69f4f58e90c26d2973"
+  integrity sha512-3B18hrRQf3QHTbl5ShLKpmeLq7ytb69I2rysQZk2avB1ZhVDw6soCLl8Rxe2ZEwhkES0L9oY2wgDB1tmuk91vw==
   dependencies:
     "@babel/runtime" "^7.15.4"
     postcss-loader "^4.3.0"
@@ -9239,10 +9239,10 @@ prepend-http@^2.0.0:
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-2.0.0.tgz#e92434bfa5ea8c19f41cdfd401d741a3c819d897"
   integrity sha1-6SQ0v6XqjBn0HN/UAddBo8gZ2Jc=
 
-prettier@^2.6.2:
-  version "2.6.2"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.6.2.tgz#e26d71a18a74c3d0f0597f55f01fb6c06c206032"
-  integrity sha512-PkUpF+qoXTqhOeWL9fu7As8LXsIUZ1WYaJiY/a7McAQzxjk82OF0tibkFXVCDImZtWxbvojFjerkiLb0/q8mew==
+prettier@^2.7.1:
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.7.1.tgz#e235806850d057f97bb08368a4f7d899f7760c64"
+  integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
 
 pretty-bytes@^5.4.1:
   version "5.6.0"
