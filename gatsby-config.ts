@@ -18,7 +18,6 @@ const config: GatsbyConfig = {
         name: "images",
         path: "./src/images/",
       },
-      // @ts-expect-error Gatsby generated code which already has a TS error, wonderful.
       __key: "images",
     },
   ],
