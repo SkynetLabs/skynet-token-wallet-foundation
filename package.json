@@ -48,7 +48,7 @@
     "@babel/core": "^7.21.4",
     "@types/node": "^18.15.11",
     "@types/react": "^18.0.31",
-    "@types/react-dom": "^18.0.11",
+    "@types/react-dom": "^18.2.1",
     "autoprefixer": "^10.4.14",
     "babel-eslint": "^10.1.0",
     "eslint": "^8.37.0",
