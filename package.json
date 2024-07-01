@@ -41,14 +41,14 @@
     "gatsby-transformer-sharp": "^4.25.0",
     "postcss": "^8.4.38",
     "react": "^18.3.1",
-    "react-dom": "^18.2.0",
+    "react-dom": "^18.3.1",
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.24.6",
     "@types/node": "^20.14.9",
     "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.2.23",
+    "@types/react-dom": "^18.3.0",
     "autoprefixer": "^10.4.19",
     "babel-eslint": "^10.1.0",
     "eslint": "^8.57.0",
