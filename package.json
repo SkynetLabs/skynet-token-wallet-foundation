@@ -57,7 +57,7 @@
     "lint-staged": "^13.2.3",
     "prettier": "^3.5.3",
     "tailwindcss": "4.1.13",
-    "typescript": "^5.8.3",
+    "typescript": "^5.9.3",
     "webpack": "^5.102.0"
   }
 }
